@@ -20,7 +20,7 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "ADD ME ❤", url="https://t.me/DeeCodeDevs"
+                        "ADD ME ❤", url="https://t.me/Banhammer_robot?startgroup=true"
                     )
                 ]
             ]
