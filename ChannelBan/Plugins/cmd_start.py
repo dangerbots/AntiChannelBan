@@ -10,15 +10,15 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📢 Cʜᴀɴɴᴇʟ", url="https://t.me/DeeCodeBots"
+                        "Support", url="https://t.me/danger_bots"
                     ),
                     InlineKeyboardButton(
-                        "Sᴜᴘᴘᴏʀᴛ 👥", url="https://t.me/DeCodeSupport"
+                        "Dev", url="https://t.me/danger_of_telegram"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🧑‍💻 Dᴇᴠ 🧑‍💻", url="https://t.me/DeeCodeDevs"
+                        "Owner✨️", url="https://t.me/Qalbeyy"
                     )
                 ]
             ]
